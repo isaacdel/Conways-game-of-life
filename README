@@ -1,0 +1,14 @@
+-----------------------------------------------Game of Life-----------------------------------------------
+Implementation of Conway's Game Of Life in Java
+Supports integer sized matrix (can be modified if needed)
+Run instructions:
+
+Maven clean and install (will also run tests).
+
+In order to test the required 'test_game' function, either add code to MainTest or call it externally.
+
+In order to create an executable .jar that can receive user input and display results:
+
+    run in jar folder:
+        java -jar gameOfLife-1.0.jar
+
